@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hot-pink{
+    color: white;
+    background-color: rgb(249, 59, 154);
+    font-size: x-large ;
+}
+.hot-pink:hover{
+    background-color:hotpink;
+
+}
+
+.violet{
+    color: white;
+    background-color:purple ;
+    font-size: x-large ;
+}
+.hot-pink:hover{
+    background-color: violet;
+    
+}
